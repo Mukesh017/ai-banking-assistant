@@ -1,1 +1,1 @@
-# ai-banking-fraud-system
+# ai-banking-assistant
